@@ -1,8 +1,12 @@
 # Console App
 
-### Here is the web version: ...
+## For web version:
 
-### Run on your machine
+[Web version GitHub repo](https://github.com/ChenxiiCheng/Terminal-Web)
+
+[Web Online Demo](https://terminal-web.vercel.app/)
+
+## Run on your machine
 
 ### 1. Environment
 
