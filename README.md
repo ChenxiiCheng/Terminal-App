@@ -38,4 +38,4 @@
 ### 4. Preview
 
 ![image-20191025143441031](./images/preview1.png)
-![image-20191025143441031](./images/preview3.png)
+![image-20191025143441031](./images/preview0.png)
