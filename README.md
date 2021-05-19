@@ -1,12 +1,12 @@
-# Console App
+# Terminal App
 
-## For web version:
+## For web version 🔥
 
-[Web version GitHub repo](https://github.com/ChenxiiCheng/Terminal-Web)
+👉 [**Web Version GitHub Repo**](https://github.com/ChenxiiCheng/Terminal-Web)
 
-[Web Online Demo](https://terminal-web.vercel.app/)
+👉 [**Web Online Demo**](https://terminal-web.vercel.app/)
 
-## Run on your machine
+## Run Terminal App on your machine ⭐️
 
 ### 1. Environment
 
