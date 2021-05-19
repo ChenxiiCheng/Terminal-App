@@ -2,9 +2,9 @@
 
 ## For web version 🔥
 
-👉 [**Web Version GitHub Repo**](https://github.com/ChenxiiCheng/Terminal-Web)
+[**Web Version GitHub Repo**](https://github.com/ChenxiiCheng/Terminal-Web)
 
-👉 [**Web Online Demo**](https://terminal-web.vercel.app/)
+[**Web Online Demo**](https://terminal-web.vercel.app/)
 
 ## Run Terminal App on your machine ⭐️
 
