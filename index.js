@@ -82,7 +82,7 @@ function main() {
     let row = `${key} ${formatter.format(items[items.length - 1])}`;
     for (const item of items) {
       if (isObject(item)) {
-        row = `${row} \n   ${item.Product} ${formatter.format(item.Amount)}`;
+        row = `${row} \n  ${item.Product} ${formatter.format(item.Amount)}`;
       }
     }
     output = `${output}${row} \n`;
